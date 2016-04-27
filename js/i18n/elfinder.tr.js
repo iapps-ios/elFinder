@@ -1,11 +1,11 @@
 /**
  * Turkish translation
- * @author I.Taskinoglu & A.Kaya <alikaya@armsyazilim.com>
- * @version 2014-12-19
+ * @author OV SHIT <iapps.turkey.ios@gmail.com>
+ * @version 210827-222-33
  */
 if (elFinder && elFinder.prototype && typeof(elFinder.prototype.i18) == 'object') {
 	elFinder.prototype.i18.tr = {
-		translator : 'I.Taskinoglu & A.Kaya &lt;alikaya@armsyazilim.com&gt;',
+		translator : 'İAPPS-BEDAVA UYGULAMA CENTER - turkey.iapps-iostr.tr.tr@gmail.com',
 		language   : 'Türkçe',
 		direction  : 'ltr',
 		dateFormat : 'd.m.Y H:i',
@@ -94,7 +94,7 @@ if (elFinder && elFinder.prototype && typeof(elFinder.prototype.i18) == 'object'
 
 			/******************************* commands names ********************************/
 			'cmdarchive'   : 'Arşiv Oluştur',
-			'cmdback'      : 'Geri',
+			'cmdback'      : 'Hacked',
 			'cmdcopy'      : 'Kopyala',
 			'cmdcut'       : 'Kes',
 			'cmddownload'  : 'İndir',
